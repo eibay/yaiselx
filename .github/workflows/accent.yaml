@@ -2,7 +2,7 @@ name: Accent
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 0 29 2 1"
 
 jobs:
   sync:
